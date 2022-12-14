@@ -1,0 +1,18 @@
+{
+  "name": "@gsa-sam/sam-material-extensions",
+  "version": "13.0.4",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/GSA/sam-design-system.git"
+  },
+  "homepage": "https://github.com/GSA/sam-design-system/tree/master/libs/packages/sam-material-extensions",
+  "dependencies": {
+    "tslib": "^2.0.0"
+  },
+  "peerDependencies": {
+    "@angular/common": "^13.3.11",
+    "@angular/core": "^13.3.11",
+    "ngx-bootstrap-icons": "^1.7.2",
+    "@gsa-sam/components": ">=13.0.0-beta.1"
+  }
+}
